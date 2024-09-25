@@ -1,0 +1,11 @@
+Explorando alguns padrões de projetos com Spring:
+	*Singleton: @Bean e @Autowired
+	*Strategy: @Service e @Repository
+	*Facade: construir uma API REST com Sring Data JPA e ViaCEP (feign)
+
+	Dependências:
+	    Sring Data JPA
+	    Spring Web
+	    OpenFeign
+	    H2 Database
+	    OpenAPI (antigo Swagger) [manualmente]
